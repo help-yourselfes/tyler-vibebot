@@ -1,0 +1,46 @@
+[
+    {
+        "id": "2fafccfb",
+        "user_id": 7807566554,
+        "task": "навайбкодить тайлера",
+        "proof_type": "text",
+        "proof_data": "zzz",
+        "status": "approved",
+        "timestamp": "2025-11-26T22:12:39.631900",
+        "admin_id": 7807566554,
+        "processed_at": "2025-11-26T22:12:46.290537"
+    },
+    {
+        "id": "09e9ced2",
+        "user_id": 7807566554,
+        "task": "сделать 1488 отжиманий",
+        "proof_type": "text",
+        "proof_data": "1488",
+        "status": "rejected",
+        "timestamp": "2025-11-26T22:12:53.152728",
+        "admin_id": 7807566554,
+        "processed_at": "2025-11-26T22:12:55.002042"
+    },
+    {
+        "id": "3630792e",
+        "user_id": 7807566554,
+        "task": "сделать 1488 отжиманий",
+        "proof_type": "text",
+        "proof_data": "1444",
+        "status": "approved",
+        "timestamp": "2025-11-26T22:12:58.169990",
+        "admin_id": 7807566554,
+        "processed_at": "2025-11-26T22:12:59.777973"
+    },
+    {
+        "id": "6a8b2c7a",
+        "user_id": 7807566554,
+        "task": "сыграть час в бесконечное лето",
+        "proof_type": "text",
+        "proof_data": "nyet",
+        "status": "approved",
+        "timestamp": "2025-11-26T22:13:06.465499",
+        "admin_id": 7807566554,
+        "processed_at": "2025-11-26T22:13:08.922178"
+    }
+]
